@@ -1,0 +1,70 @@
+.gallery{
+	display: flex;
+
+}
+.img{
+	width:20%;
+	height: 200px;
+}
+
+.navbar-nav{
+	margin-left: 400px;
+	font-size:30px;
+}
+
+.nav-item {
+	margin-left: 30px;
+	
+	font-size: 30px;
+
+	
+}
+.button{
+	text-align: center;
+	margin-top: 40px;
+	font-size: 40px;
+	padding: 7px;
+	}
+	
+	.gallery{
+	margin-bottom: 40px;
+}
+.div{
+	background-color:#00001a;
+	height: 400px;
+	margin-top: 30px;
+}
+h1{
+	text-align: center;
+	padding-top: 20px;
+}
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*?*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+
+.widgets_div {
+  border-bottom: thin #edf1f2 solid;
+  padding: 22.85px 0;
+}
+
+.widgets_div .icon_div {
+  display: inline;
+  margin-left: 15px;
+}
+
+.widgets_div .icon_div span i {
+  font-size: 24px;
+}
+
+.widgets_div .text_div {
+  display: inline;
+  margin-left: 10px;
+}
+
+.widgets_div .text_div span {
+  color: #58666e;
+  font-size: 12px;
+}
+
+.widgets_div .text_div span+span {
+  color: #747F85;
+  font-size: 11px;
+}
